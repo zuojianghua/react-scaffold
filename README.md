@@ -10,11 +10,11 @@
 
 ### serverless配置
 
-./serverless.yml
+[./serverless.yml](https://github.com/zuojianghua/react-scaffold/blob/main/serverless.yml)
 
 ### 自动构建配置
 
-./.github/workflows/node.js.yml
+[./.github/workflows/node.js.yml](https://github.com/zuojianghua/react-scaffold/blob/main/.github/workflows/node.js.yml)
 
 ## 脚手架
 
