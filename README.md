@@ -1,3 +1,5 @@
+![Node.js CI](https://github.com/zuojianghua/react-scaffold/workflows/Node.js%20CI/badge.svg)
+
 # 说明
 
 ## serverless部署工具
